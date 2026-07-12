@@ -6,14 +6,14 @@ import joblib
 
 @st.cache_resource
 def load_model():
-    return joblib.load("house_price_model.pkl")
+    return joblib.load("models/house_price_model.pkl")
 
 model = load_model()
 
 
 @st.cache_resource
 def load_feature_names():
-    return joblib.load("feature_names.pkl")
+    return joblib.load("models/feature_names.pkl")
 
 feature_names = load_feature_names()
 
