@@ -173,6 +173,11 @@ if submit:
     )
 
 
+st.caption(
+    "Developed by Darshan Panchal | Python • Scikit-Learn • Streamlit | "
+    "Gmail: darshanpanchal151102@gmail.com | "
+    "GitHub: https://github.com/DarshaN131521"
+)
 
 
 
