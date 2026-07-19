@@ -11,6 +11,9 @@ The goal of this project is to build a machine learning model capable of predict
 The project compares multiple machine learning algorithms and deploys the best-performing model as an interactive web application.
 
 ---
+## 🚀 Live Demo
+
+**Streamlit App:** https://house-price-prediction-darshan1.streamlit.app
 
 ## 🚀 Features
 
