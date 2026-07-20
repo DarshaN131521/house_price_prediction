@@ -202,4 +202,5 @@ streamlit run app.py
 
 **Darshan Panchal**
 
+Aspiring Data Analyst | Data Science Enthusiast
 
