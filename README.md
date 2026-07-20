@@ -202,8 +202,4 @@ streamlit run app.py
 
 **Darshan Panchal**
 
-Aspiring Data Scientist | Machine Learning Enthusiast
 
----
-
-## ⭐ If you found this project helpful, consider giving it a star!
